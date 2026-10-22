@@ -1,10 +1,10 @@
 # Survey Insights Generator
 
-![Dashboard Preview](dashboard-preview.png)
-
 Interactive dashboard to automatically generate statistical insights and publication-ready visualizations from survey data (CSV).
 
 ## Why This Exists
+
+![Dashboard Preview](dashboard-preview.png)
 
 Researchers spend hours cleaning data and manually creating charts for papers. This tool automates the exploratory data analysis (EDA) phase, turning raw CSVs into actionable insights instantly.
 
